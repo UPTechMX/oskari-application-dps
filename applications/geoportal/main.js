@@ -66,4 +66,8 @@ import 'oskari-lazy-loader?admin-layereditor!oskari-frontend/packages/admin/bund
 import 'oskari-lazy-loader?admin-layerselector!oskari-frontend/packages/integration/bundle/admin-layerselector/bundle.js';
 import 'oskari-lazy-loader?admin-layerselector!oskari-frontend/packages/integration/bundle/bb/bundle.js';
 
+import 'oskari-loader!oskari-frontend-contrib/packages/tampere/bundle/content-editor/bundle.js';
+import 'oskari-loader!oskari-frontend-contrib/packages/download-basket/bundle.js';
+import 'oskari-loader!oskari-frontend/packages/framework/bundle/language-selector/bundle.js';
+
 import './css/overwritten.css';
