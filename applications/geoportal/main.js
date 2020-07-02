@@ -43,7 +43,7 @@ import 'oskari-loader!oskari-frontend/packages/mapping/dimension-change/bundle.j
 
 // oskari-frontend-contrib bundles
 import 'oskari-loader!oskari-frontend-contrib/packages/download-basket/bundle.js';
-import 'oskari-loader!oskari-frontend-contrib/tree/master/packages/tampere/bundle/content-editor/bundle.js';
+import 'oskari-loader!oskari-frontend-contrib/packages/tampere/bundle/content-editor/bundle.js';
 
 // Lazy loader
 
